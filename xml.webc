@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://example.com">
+    <title>Title</title>
+    <entry>
+        <title>Entry</title>
+        <link href="https://example.com"/>
+        <content type="html" xml:lang="en">
+            <![CDATA[
+                11
+            ]]>
+        </content>
+    </entry>
+</feed>
